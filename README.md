@@ -1,4 +1,5 @@
 # Power-BI-CRM-RFM-Dashboard
 
 
-![CRM-FRM](https://github.com/hilxwang/Power-BI-CRM-RFM-Dashboard/assets/96967687/9f67475c-4cb2-48b7-bf83-17347f9cba06)
+![CRM-FRM](https://github.com/hilxwang/Power-BI-CRM-RFM-Dashboard/assets/96967687/06fdc46f-463f-464b-8230-56e21264de6c)
+
